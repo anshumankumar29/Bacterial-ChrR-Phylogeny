@@ -20,3 +20,7 @@ An automated, reproducible computational phylogenetics pipeline investigating th
 * `chrr_aligned.fasta` — MAFFT multiple sequence alignment
 * `chrr_ml.treefile` — Maximum Likelihood Newick tree with bootstrap values
 * `chrr_phylogeny_300dpi.png` — High-resolution annotated phylogenetic tree
+
+
+## Phylogenetic Tree
+![Maximum Likelihood Phylogeny of Bacterial ChrR](chrr_phylogeny_300dpi.png)
